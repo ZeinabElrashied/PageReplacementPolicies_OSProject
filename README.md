@@ -1,4 +1,4 @@
-##Page Replacement Policies 
+# Page Replacement Policies 
 
 ### Project Overview
 This university project explores different methods of handling multiple tasks using processes and threads. It includes four main parts:
